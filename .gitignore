@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+.pycache/
+*.pyc
+
+.venv/
+.claude/
+config.json
+
+output/exported.m4a
+output/session.json
+output/waveform_cache/
+output/*/
+
+
+recovery_blobs/
+recovery_restore_backup/
